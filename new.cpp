@@ -62,7 +62,7 @@ string Binary(int n)
 
 void solve()
 {
-  
+  cout << "This is my first pull request"<<endl;
 }
 
 /*************** main *****************/
